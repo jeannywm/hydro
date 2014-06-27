@@ -1,0 +1,68 @@
+Common Name	Scientific SPP	Native
+Sydney golden wattle	Acacia longifolia	ACLO	Yes
+Scarlet pimpernel	Anagallis arvensis	ANAR	No
+Fat hen	Atriplex triangularis	ATTR	Yes
+Wild oats	Avena fatua	AVFA	No
+Coyote Bush	Bacharis	BAPI	Yes
+American bulrush	Bolboschoenus maritimus	BOMA	Yes
+Ripgut brome	Bromus diandrus	BRDI	No
+Soft chess	Bromus hordeaceous	BRHO	No
+Purple star thistle	Centaurea calcitrapa	CECA	No
+Yellow star thistle	Centaurea solstitialis	CESO	No
+Brass buttons	Cotula coronopifolia	COCO	No
+Horseweed	Conyza spp.	COSP	-
+Stinkwort	Dittrichia graveolens	DIGR	No
+Salt Grass	Distichlis spicata	DISP	Yes
+Eleocharis species	Eleocharis species	ELSP	Yes
+Longbeak stork’s bill	Erodium botrys	ERBO	No
+California Poppy	Eschscholzia californica	ESCA	Yes
+Common Fennel	Foeniculum vulgare	FOVU	No
+Alkali Heath	Frankenia salina	FRSA	Yes
+Gum-plant	Grindelia stricta	GRST	Yes
+Spikeweed	Hemizonia pungens	HEPU	Yes
+Meadow Barley	Hordeum brachyantherum	HOBR	Yes
+Mediterranean barley	Hordeum marinum	HOMA	No
+Barley	Hordeum murinum	HOMU	No
+N/A	Hordeum Sp.	HOSP	No
+Saltmarsh Daisy	Jaumea carnosa	JACA	Yes
+Prickly lettuce	Lactuca serriola	LASE	No
+Sea Lavender	Limonium californicum	LICA	Yes
+Birdfoot trefoil	Lotus corniculatus	LOCO	No
+Italian Ryegrass	Lolium multiflorum	LOMU	No
+Perennial rye grass	Lolium perenne	LOPE	No
+Spanish Clover	Lotus purshianus	LOPU	Yes
+N/A	Lolium spp	LOSP	No
+Cheeseweed	Malva parviflora	MAPA	No
+Sour Clover	Melilotus Indica	MEIN	No
+California burrclover	Medicago polymorpha	MEPO	No
+Bristly ox-tongue	Picris echioides	PIEC	No
+Buckhorn plantain	Plantago coronopus	PLCO	No
+English plantain	Plantago lanceolata	PLLA	No
+Plantago spp	N/A	PLSP	Yes
+Common knotweed	Polygonum arenastrum	POAR	No
+Marin knotweed	Polygonum marinense	POMA	Yes
+Rabbitfoot beardgrass	Polypogon monspeliensis	POMO	No
+Unknown grass Poaceae	N/A	POSP	No
+Common wildraddish	Raphanus sativa	RASA	No
+Curly dock	Rumex crispus	RUCR	No
+Pickleweed	Sarcocornia pacifica	SAPA	Yes
+Russian Thistle	Salsola soda	SASO	No
+California tule	Schoenoplectus californicus	SCCA	Yes
+Common sowthistle	Sonchus oleraceus	SOOL	No
+Cordgrass	Spartina alternifornia	SPAL	No
+Cordgrass	Spartina foliosa	SPFO	Yes
+Sand spurrey	Spergularia Macrotheca	SPMA	Yes
+Sand spurrey	Spergularia rubra	SPRU	No
+Arrowgrass	Triglochin maritima	TRMA	Yes
+Red clover	Trifolium pratense	TRPR	No
+Cattail spp	Typha species	TYSP	-
+Common vetch	Vicia sativa	VISA	No
+Fescue	Vulpia microstachys	VUMI	Yes
+Cocklebur	Xanthium strumarium	XAST	Yes
+			
+Algae	-	ALGA	-
+Bare Ground	-	BARE	-
+Dead Not Standing	-	DUFF	-
+Unknown	-	UNK	-
+Dead and Standing	-	LI	-
+Open Water	-	OPWA	-
